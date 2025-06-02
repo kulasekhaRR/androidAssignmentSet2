@@ -1,6 +1,6 @@
 # 🧠 Algorithm Assignment Solutions
 
-This repository contains solutions to two classic algorithmic problems — the #N-Queens Puzzle and Cycle Detection in Directed Graphs (Module Dependency Checker)** — implemented in **Java** and **C++**, respectively.
+This repository contains solutions to two classic algorithmic problems — the **N-Queens Puzzle** and **Cycle Detection in Directed Graphs (Module Dependency Checker)** — implemented in **Java** and **C++**, respectively.
 
 Each solution is designed to be clean, efficient, and easily testable via dynamic user input.
 
