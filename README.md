@@ -20,13 +20,21 @@ n = 4
 
 **Example Output:**
 .Q..
+
 ...Q
+
 Q...
-..Q.
 
 ..Q.
+
+
+
+..Q.
+
 Q...
+
 ...Q
+
 .Q..
 
 ---
@@ -40,6 +48,7 @@ Given a list of module dependencies in a large software system, determine whethe
 
 **Example Input:**
 n = 4
+
 edges = {{0, 1}, {1, 2}, {2, 0}}
 
 **Output:**
@@ -60,7 +69,10 @@ java ChessQueenPlacer
 Enter board size when prompted.
 
 🔹 For C++ (Cycle Detection)
+
 g++ -o dependency circularDependency.cpp
+
 ./dependency
+
 Enter the number of modules and dependency pairs when prompted.
 
