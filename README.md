@@ -56,7 +56,7 @@ True
 
 ---
 
-## 🛠️ How to Compile & Run
+## How to Compile & Run
 
 ### For Java (N-Queens)
 
