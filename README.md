@@ -1,4 +1,4 @@
-# 🧠 Algorithm Assignment Solutions
+# 🧠 Assignment Solutions
 
 This repository contains solutions to the Problem statements given in the Android Assignment Set 2.
 
