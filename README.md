@@ -52,8 +52,11 @@ True
 ### 🔹 For Java (N-Queens)
 
 bash
+
 javac ChessQueenPlacer.java
+
 java ChessQueenPlacer
+
 Enter board size when prompted.
 
 🔹 For C++ (Cycle Detection)
